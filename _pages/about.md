@@ -20,5 +20,5 @@ My research interests include Natural Language Processing, Multimodal LLM and In
 \# indicates corresponding author.
 
 - ```arxiv``` [MARVEL: Unlocking the Multi-Modal Capability of Dense Retrieval via Visual Module Plugin](https://arxiv.org/abs/2310.14037).
-**Tianshuo Zhou***, Sen Mei*, Xinze Li, Zhenghao Liu#, Chenyan Xiong, Zhiyuan Liu, Yu Gu, Ge Yu
+**Tianshuo Zhou\***, Sen Mei*, Xinze Li, Zhenghao Liu#, Chenyan Xiong, Zhiyuan Liu, Yu Gu, Ge Yu
 
